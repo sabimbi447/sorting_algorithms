@@ -1,1 +1,1 @@
-# Sorting Algorithms project
+# C - Sorting algorithms & Big O
